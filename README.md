@@ -16,6 +16,9 @@ O projeto possui duas implementações:
 - Atualização dinâmica das barras de vida.
 - Histórico de ações durante o combate.
 
+<img width="1318" height="279" alt="image" src="https://github.com/user-attachments/assets/a4fa27b3-de25-4bb3-9207-4426f68f1372" />
+
+
 ## Tecnologias
 
 - HTML5
