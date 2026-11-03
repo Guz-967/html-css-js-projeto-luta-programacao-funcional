@@ -17,6 +17,7 @@ O projeto possui duas implementações:
 - Histórico de ações durante o combate.
 
 <img width="1318" height="279" alt="image" src="https://github.com/user-attachments/assets/a4fa27b3-de25-4bb3-9207-4426f68f1372" />
+<img width="1318" height="292" alt="image" src="https://github.com/user-attachments/assets/4d9a7f7c-49bf-4549-9ae3-81028488ad2a" />
 
 
 ## Tecnologias
